@@ -7,13 +7,13 @@
   <img src="https://github.com/user-attachments/assets/141755ae-8f85-42f7-b569-60ea010512f8" width="49%"></img> 
 </div>
 
-# Technologies Used
+# 📚 Technologies Used
 ✅ Python  
 ✅Requests  
 ✅Beautifulsoup4  
 ✅Pandas  
 
-# How to use it
+# 🌋 How to use it
 We clone the repository
 ```bash
 git clone https://github.com/K3ury99/Github-Profile-Scrapper
